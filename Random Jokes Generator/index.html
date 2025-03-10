@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Joke Generator</title>
+
+    
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <div class="container">
+        <h1>Random Joke Generator</h1>
+        
+        <div class="controls">
+            <div class="filter-section">
+                <h3>Category</h3>
+                <select id="category">
+                    <option value="Any">Any</option>
+                    <option value="Programming">Programming</option>
+                    <option value="Misc">Miscellaneous</option>
+                    <option value="Pun">Pun</option>
+                    <option value="Spooky">Spooky</option>
+                    <option value="Christmas">Christmas</option>
+                </select>
+            </div>
+            
+            <div class="filter-section">
+                <h3>Type</h3>
+                <select id="type">
+                    <option value="any">Any</option>
+                    <option value="single">Single</option>
+                    <option value="twopart">Two Part</option>
+                </select>
+            </div>
+            
+            <div class="filter-section">
+                <h3>Language</h3>
+                <select id="language">
+                    <option value="en">English</option>
+                    <option value="de">German</option>
+                    <option value="cs">Czech</option>
+                    <option value="es">Spanish</option>
+                    <option value="fr">French</option>
+                    <option value="pt">Portuguese</option>
+                </select>
+            </div>
+        </div>
+        
+        <div class="filter-section">
+            <h3>Blacklist Flags</h3>
+            <div class="checkbox-group">
+                <div class="checkbox-container">
+                    <input type="checkbox" id="nsfw" value="nsfw">
+                    <label for="nsfw">NSFW</label>
+                </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" id="religious" value="religious">
+                    <label for="religious">Religious</label>
+                </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" id="political" value="political">
+                    <label for="political">Political</label>
+                </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" id="racist" value="racist">
+                    <label for="racist">Racist</label>
+                </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" id="sexist" value="sexist">
+                    <label for="sexist">Sexist</label>
+                </div>
+                <div class="checkbox-container">
+                    <input type="checkbox" id="explicit" value="explicit">
+                    <label for="explicit">Explicit</label>
+                </div>
+            </div>
+        </div>
+        
+        <button id="get-joke">Get a Joke</button>
+        
+        <div class="joke-container">
+            <div class="loader" id="loader"></div>
+            <div class="error-message" id="error-message">Sorry, no joke found with these filters. Try changing your options.</div>
+            <p class="joke-text" id="joke-text">Click the button to get a joke!</p>
+            <p class="joke-delivery" id="joke-delivery"></p>
+            <div class="joke-meta" id="joke-meta"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+
+
+
+
+</body>
+</html>
