@@ -35,32 +35,6 @@ A complete list of all my projects, covering web development, AI, automation, an
 
 ---
 
-## 🔗 Replaceable Project Links
-
-To make this README user-friendly, replace the **`#`** in the links above with actual URLs.
-
-| Project | Link to Replace |
-|---------|---------------|
-| **Inventory Management System** | `[🔗 View Project](https://your-link.com)` |
-| **Lexical Analyzer (Scanner) for Compiler** | `[🔗 View Project](https://your-link.com)` |
-| **Data Structures Implementations** | `[🔗 View Project](https://your-link.com)` |
-| **SpaceX-Themed Website** | `[🔗 View Project](https://your-link.com)` |
-| **Process Scheduling Algorithms** | `[🔗 View Project](https://your-link.com)` |
-| **E-Commerce Warehouse Management System** | `[🔗 View Project](https://your-link.com)` |
-| **Carpet World Management System** | `[🔗 View Project](https://your-link.com)` |
-| **Dictionary App** | `[🔗 View Project](https://your-link.com)` |
-| **Library Management System** | `[🔗 View Project](https://your-link.com)` |
-| **Task Management App** | `[🔗 View Project](https://your-link.com)` |
-| **E-Commerce Website** | `[🔗 View Project](https://your-link.com)` |
-| **Medicine Distribution Software** | `[🔗 View Project](https://your-link.com)` |
-| **T-Rex Game** | `[🔗 View Project](https://your-link.com)` |
-| **AI-Powered Automation Scripts** | `[🔗 View Project](https://your-link.com)` |
-| **Backend Optimization for E-Commerce** | `[🔗 View Project](https://your-link.com)` |
-| **Cross-Platform Mobile Apps** | `[🔗 View Project](https://your-link.com)` |
-| **AI-Based Customer Support Bot** | `[🔗 View Project](https://your-link.com)` |
-| **Custom Authentication System** | `[🔗 View Project](https://your-link.com)` |
-
----
 
 ## 🛠️ Technologies Used
 
