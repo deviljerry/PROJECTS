@@ -12,10 +12,10 @@ A complete list of all my projects, covering web development, AI, automation, an
 
 ## 📂 Project Categories
 
-| SrNo. | Language | Project | Description | Link |
+| SrNo. | Language | Project | Description | Repository-Link |
 |----|-----------|---------|-------------|------|
-| **1** | 🟢 C# / Blazor / ASP.NET | **Inventory Management System** | A web-based inventory system built with .NET 9 Aspire Starter App, SQL Server 2022, and Blazor. | [🔗 View Project](#) |
-| **2** | 🟣 C++ | **Lexical Analyzer (Scanner) for Compiler** | A lexical analyzer using linked lists instead of arrays. | [🔗 View Project](#) |
+| **1** | 🟢 MERN | **SHOP EASE** | ShopEase Online Store is a modern, dynamic, and fully responsive e-commerce platform  | [🔗 View Project](https://github.com/deviljerry/Shop-Ease-Online-Store.git) |
+| **2** | 🟣 Javascript | **Random-Jokes-Generator** | Generating Random jokes using Joke Api | [🔗 View Project](https://github.com/deviljerry/Random-Jokes-Generator.git) |
 | **3** | 🟠 Python | **Data Structures Implementations** | Implementations of linked lists, stacks, queues, trees, and graphs. | [🔗 View Project](#) |
 | **4** | 🔵 HTML / CSS | **SpaceX-Themed Website** | A SpaceX-inspired website using only HTML and CSS. | [🔗 View Project](#) |
 | **5** | 🟣 C++ | **Process Scheduling Algorithms** | CPU scheduling algorithms: FCFS, SJF, Priority Scheduling, Round Robin. | [🔗 View Project](#) |
